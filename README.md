@@ -145,4 +145,4 @@ HR teams struggle to identify which departments have high attrition, where salar
 ## 👤 Author
 
 **Himanshu Chavhan** — Data Analyst
-www.linkedin.com/in/himanshu-chavhan-b7a80123b
+https://www.linkedin.com/in/himanshu-chavhan605
